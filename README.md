@@ -8,8 +8,6 @@
 
 
 
-![RISC-V SOC](/home/lnb/Desktop/Cosmos/RISC-V SOC.png)
-
 
 
 
