@@ -8,7 +8,11 @@
 
 
 
+<<<<<<< HEAD
 ![Cosmos-SOC](https://github.com/CosmosPsi/CosmosDocs/blob/main/images/RISC-V-SOC.png)
+=======
+
+>>>>>>> origin/dev
 
 
 
